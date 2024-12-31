@@ -53,3 +53,6 @@ min 2800𝑥𝐷𝑒𝑡,𝐿𝐴 + 2600 𝑥𝐷𝑒𝑡,𝐴𝑡𝑙 + 2300�
 0≤𝑥𝑖𝑗 ≤2200 ∀𝑖,𝑗
 
 ## Result
+
+<img width="688" alt="Screenshot 2024-12-31 at 12 27 12 AM" src="https://github.com/user-attachments/assets/57070665-e5af-44c6-8942-9631841d4a2f" />
+
